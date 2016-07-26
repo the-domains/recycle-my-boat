@@ -1,29 +1,41 @@
-name: Recycle My Boat
-favicon: null
-layout_spectrum: 0.6444739727303386
-typography_spectrum: 0.046810252126306295
-title: Responsible Boat Recycling
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.6444739727303386
+title: Responsible Boat Recycling
+cta:
+  bucket: null
+  version: null
+  domain: null
 color:
+  saturation: 0.3990846478845924
+  brandStrength: 0.9579920298419893
+  rhythmicContrast: 0.4774971678853035
   brandColors:
     - '#ffffff'
     - '#909497'
     - '#131313'
     - '#4e4c37'
     - '#b4dafe'
-  brandStrength: 0.9579920298419893
-  lightness: 0.34349360573105514
-  saturation: 0.3990846478845924
-  rhythmicContrast: 0.4774971678853035
+  lightness: 0.3434936057310551
 purpose: []
+favicon: null
+name: Recycle My Boat
+typography_spectrum: 0.0468102521263063
