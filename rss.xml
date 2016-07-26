@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Recycle My Boat]]></title>
-        <description><![CDATA[Recycle My Boat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Responsible Boat Recycling]]></title>
+        <description><![CDATA[Responsible Boat Recycling]]></description>
+        <link>https://thegrid.ai/recycle-my-boat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 18:03:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jul 2016 23:34:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/recycle-my-boat/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Derelict boats are a source of pollution]]></title>
+            <description><![CDATA[<article><h1>Derelict boats are a source of pollution</h1><p>Recycle My Boat is North America’s leading boat recycling service. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b69346d5-b728-4d40-a6b9-50185114f222.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b69346d5-b728-4d40-a6b9-50185114f222.jpg</link>
+            <guid isPermaLink="false">cf19fe41-95d1-455b-b773-5d699b9a59ed</guid>
+            <pubDate>Tue, 26 Jul 2016 23:34:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Boating is fun. It starts as a dream. Like any dream, it can sometimes turn rather unpleasant. An amazing dream of owning and using a boat can turn into a nightmare. Storage, moorage, survey, mechanic, fuel, insurance, to name only a few, make up the submerged side of an iceberg.</p>]]></description>
-            <link>undefinedboating-is-fun-it-starts-as-a-dream-like-any-dream-it-can/index.html</link>
+            <link>https://thegrid.ai/recycle-my-boat/boating-is-fun-it-starts-as-a-dream-like-any-dream-it-can/index.html</link>
             <guid isPermaLink="false">ed18aef1-cab2-4297-a626-9176633dd6a9</guid>
             <pubDate>Fri, 25 Mar 2016 18:03:09 GMT</pubDate>
         </item>
